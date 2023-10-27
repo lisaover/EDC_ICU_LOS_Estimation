@@ -10,7 +10,7 @@ Lisa Over, MLIS<sup>1,2</sup>, Kuo-Ting Huang, PhD<sup>2</sup>, Bryan A. Cotton,
 
 ## Repository files
 
-* <strong>Poster:</strong> P126_Over.pdf & P126_Over.png
+* <span style="color:blue">Poster:</span> P126_Over.pdf & P126_Over.png
 * Presentation Slides: P126_Over_slides.pdf
 * Abstract: Exploring an Imputation Strategy_Over
 * Calendar day calculation algorithm: get_calendar_days.ipynb & get_calendar_days.html
