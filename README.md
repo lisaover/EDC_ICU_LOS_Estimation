@@ -12,15 +12,15 @@ This project was presented at the Annual Meeting of the American Medical Informa
 
 ## Questions and Answers
 
-1. Why did you choose Lin's CCC over Pearson's correlation?
+<strong>Why did you choose Lin's CCC over Pearson's correlation?</strong>
    
 While both Lin's CCC and Pearson's correlation measure the strength of a relationship between two continuous variables, they serve different purposes. I chose Lin's CCC because I wanted to assess the agreement between two methods, accounting for both precision and accuracy. Pearson’s correlation, on the other hand, evaluates the linear association between two variables but does not necessarily imply agreement. In our context, it was more crucial to understand how closely our two methods agreed with each other, and that's why Lin's CCC was more appropriate.
  
-3. Why didn't you use the Intraclass Correlation Coefficient (ICC)?
+<strong>Why didn't you use the Intraclass Correlation Coefficient (ICC)?</strong>
    
 The Intraclass Correlation Coefficient (ICC) is an excellent tool for assessing the reliability or consistency of measurements or ratings within the same group. However, in our study, we were more focused on agreement between two different methods, rather than consistency or reliability within a single group. Lin's CCC provided a more direct measure of this concordance, making it a more suitable choice for our specific research question.
 
-5. Why did you include the 85th percentile in Table 2: Summary of TQIP ventilation days by agreement with in-hospital ICU records?
+<strong>Why did you include the 85th percentile in Table 2: Summary of TQIP ventilation days by agreement with in-hospital ICU records?</strong>
 
 The 85<sup>th</sup> percentile was included to show that the majority of values are 1 for the 518 records where TQIP and inhospital records agree that patients were not in the ICU. Of these 518 records, 52 were ventilated for two days (93<sup>rd</sup> percentile) and only nine records (98<sup>th</sup> percentile and above) had ventilation days greater than two. The low ventilation day values for these 518 records support the agreement between TQIP and inhospital location records and the decision not to impute the estimated ICU LOS for these records. The high ventilation day values for the 504 records where TQIP and inhospital records disagree support that patients were in the ICU and the decision to impute the estimated ICU LOS. 
 
